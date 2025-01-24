@@ -2,7 +2,7 @@
 
 **Chat Fusion** is a contextual chatbot project designed to maintain conversation history and provide coherent, context-aware responses using advanced natural language processing techniques. The project leverages OpenAI's GPT model and is implemented using Python and FastAPI for robust backend support.
 
-This project is created in accordance with the **Grow Data Skills NLP Course**.
+
 
 ---
 
@@ -95,10 +95,6 @@ Response:
 
 ---
 
-## Credits
-This project was developed as part of the **Grow Data Skills NLP Course** to demonstrate practical applications of NLP in chatbot development.
-
----
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
